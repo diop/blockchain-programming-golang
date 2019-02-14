@@ -13,6 +13,8 @@ This blockchain programming course assumes that you already know some [Go](https
     * Cryptocurrency Cabal: [http://bitcoin-class.org/](http://bitcoin-class.org/)
     * Any videos by Todd Mcleod: [https://www.youtube.com/user/toddmcleod](https://www.youtube.com/user/toddmcleod)
     * Gophercises: [https://gophercises.com/](https://gophercises.com/)
+    * Building a Blockchain in Go blog series: [https://jeiwan.cc/posts/building-blockchain-in-go-part-1/](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
+    * Create and Sign Bitcoin Transactions with Golang: [https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/](https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/)
     
 + Paid Resources:
     * Greater Commons: [Greater Commons](https://greatercommons.com/learn/golang)
@@ -23,7 +25,7 @@ This blockchain programming course assumes that you already know some [Go](https
 + Find a job as a Go(Golang) Developer:
     * Golang Crypto: [https://golangcrypto.com/](https://golangcrypto.com/)
     * Crypto Jobs List: [https://cryptojobslist.com/](https://cryptojobslist.com/)
-    * We Love Golang: [https://www.welovegolang.com/](https://www.welovegolang.com/) 
+    * We Love Golang: [https://www.welovegolang.com/](https://www.welovegolang.com/)
 
 + Attend my meetup/workshop in person in San Francisco, CA:
     * Programmable Money: [https://www.meetup.com/Programmable-Money/](https://www.meetup.com/Programmable-Money/)
