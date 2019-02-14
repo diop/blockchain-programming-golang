@@ -20,5 +20,10 @@ This blockchain programming course assumes that you already know some [Go](https
     * Calhoun IO: [https://www.calhoun.io/courses](https://www.calhoun.io/courses)
     * Stephen Grider Udemy course: [https://www.udemy.com/go-the-complete-developers-guide/](https://www.udemy.com/go-the-complete-developers-guide/)
 
-+ Attend my meetup/workshop in person in San Francisco:
++ Find a job as a Go(Golang) Developer:
+    * Golang Crypto: [https://golangcrypto.com/](https://golangcrypto.com/)
+    * Crypto Jobs List: [https://cryptojobslist.com/](https://cryptojobslist.com/)
+    * We Love Golang: [https://www.welovegolang.com/](https://www.welovegolang.com/) 
+
++ Attend my meetup/workshop in person in San Francisco, CA:
     * Programmable Money: [https://www.meetup.com/Programmable-Money/](https://www.meetup.com/Programmable-Money/)
