@@ -1,3 +1,6 @@
+# Blockchain Programming with Go
+Tentative start: March 2019
+
 ## Prerequisites
 This blockchain programming course assumes that you already know some [Go](https://golang.org/).
 
@@ -29,3 +32,10 @@ This blockchain programming course assumes that you already know some [Go](https
 
 + Attend my meetup/workshop in person in San Francisco, CA:
     * Programmable Money: [https://www.meetup.com/Programmable-Money/](https://www.meetup.com/Programmable-Money/)
+
+
+
+    
+
+
+© Copyright 2019 Fodé Diop - MIT License
