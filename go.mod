@@ -1,1 +1,1 @@
-module github.com/diop/blockchain-programming-golang
+module github.com/diop/blockchain-programmming-golang
