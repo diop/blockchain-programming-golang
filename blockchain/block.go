@@ -18,6 +18,7 @@ func CreateBlock(data string, prevHash []byte) *Block {
 
 	block.Hash = hash[:]
 	block.Nonce = nonce
+
 	return block
 }
 
