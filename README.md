@@ -2,7 +2,14 @@
 Tentative start: March 2019
 
 ## Prerequisites
-This blockchain programming course assumes that you already know some [Go](https://golang.org/).
+This blockchain programming course assumes that you're already familiar with [Bitcoin](https://bitcoin.org) and know some [Go](https://golang.org/).
+
++ Bitcoin White Paper
+    * Bitcoin: A Peer-to-Peer Electonic Cash System. 
+        * [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+
++ Bitcoin for developers - The Defacto Source of Truth
+    * Documentation [https://bitcoin.org/en/developer-guide#block-chain](https://bitcoin.org/en/developer-guide#block-chain)
 
 + Exposure to the Go(Golang) programming language: 
     * To the minimum, you have attempted and finished: [A Tour of Go](https://tour.golang.org/welcome/1)
