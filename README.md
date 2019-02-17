@@ -11,6 +11,9 @@ This blockchain programming course assumes that you're already familiar with [Bi
 + Bitcoin for developers - The Defacto Source of Truth
     * Documentation [https://bitcoin.org/en/developer-guide#block-chain](https://bitcoin.org/en/developer-guide#block-chain)
 
++ James Lopp's list:
+    * Bitcoin Resources [https://lopp.net/bitcoin.html](9https://lopp.net/bitcoin.html)
+
 + Exposure to the Go(Golang) programming language: 
     * To the minimum, you have attempted and finished: [A Tour of Go](https://tour.golang.org/welcome/1)
     * Ideally, you also have been exposed to: [Effective Go](https://golang.org/doc/effective_go.html)
