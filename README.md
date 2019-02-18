@@ -1,26 +1,20 @@
-# Blockchain Programming with Go
+# Blockchain Programming with Go - Living Document
  A self-paced study guide for learning how to program blockchains in Go.
 
 ## Prerequisites
 This blockchain programming course assumes that you're already familiar with [Bitcoin](https://bitcoin.org) and know some [Go](https://golang.org/).
 
-+ Bitcoin White Paper
-    * Bitcoin: A Peer-to-Peer Electonic Cash System. 
-        * [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
++ Bitcoin White Paper - Bitcoin: A Peer-to-Peer Electonic Cash System. 
+    * [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
 
 + Bitcoin for developers - The Defacto Source of Truth
     * Documentation [https://bitcoin.org/en/developer-guide#block-chain](https://bitcoin.org/en/developer-guide#block-chain)
-
-+ James Lopp's list:
-    * Bitcoin Resources [https://lopp.net/bitcoin.html](9https://lopp.net/bitcoin.html)
 
 + Exposure to the Go(Golang) programming language: 
     * To the minimum, you have attempted and finished: [A Tour of Go](https://tour.golang.org/welcome/1)
     * Ideally, you also have been exposed to: [Effective Go](https://golang.org/doc/effective_go.html)
 
 + Free Resources:
-    * Bitcoin Dev Network: [https://bitcoindev.network/](https://bitcoindev.network/)
-    * Justin Moon on Youtube: [https://www.youtube.com/channel/UCLp4OswuHySZZ3zrVBIoDjg/videos](https://www.youtube.com/channel/UCLp4OswuHySZZ3zrVBIoDjg/videos)
     * Building a Blockchain in Golang: [Youtube Series](https://youtu.be/mYlHT9bB6OE)
     * Golang & Ethereum: [What the func Youtube](https://youtu.be/-7uChuO_VzM)
     * Bitcoin Development with Go: [https://gobitcoinbook.org/](https://gobitcoinbook.org/)
@@ -32,23 +26,24 @@ This blockchain programming course assumes that you're already familiar with [Bi
     * Create and Sign Bitcoin Transactions with Golang: [https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/](https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/)
     
 + Paid Resources:
-    * Programming Blockchain: [https://programmingblockchain.com/](https://programmingblockchain.com/)
     * Greater Commons: [Greater Commons](https://greatercommons.com/learn/golang)
     * Applied Go: [https://appliedgo.com/](https://appliedgo.com/)
     * Calhoun IO: [https://www.calhoun.io/courses](https://www.calhoun.io/courses)
     * Stephen Grider Udemy course: [https://www.udemy.com/go-the-complete-developers-guide/](https://www.udemy.com/go-the-complete-developers-guide/)
-
+   
 + Find a job as a Go(Golang) Developer:
     * Golang Crypto: [https://golangcrypto.com/](https://golangcrypto.com/)
     * Crypto Jobs List: [https://cryptojobslist.com/](https://cryptojobslist.com/)
     * We Love Golang: [https://www.welovegolang.com/](https://www.welovegolang.com/)
 
-+ Attend my meetup/workshop in person in San Francisco, CA:
++ Not Go(Golang) specific but still great:
+    * Programming Blockchain: [https://programmingblockchain.com/](https://programmingblockchain.com/)
+    * Bitcoin Dev Network: [https://bitcoindev.network/](https://bitcoindev.network/)
+    * Justin Moon on Youtube: [https://www.youtube.com/channel/UCLp4OswuHySZZ3zrVBIoDjg/videos](https://www.youtube.com/channel/UCLp4OswuHySZZ3zrVBIoDjg/videos)
+    * James Lopp's Bitcoin Resources list: [https://lopp.net/bitcoin.html](9https://lopp.net/bitcoin.html)
+
++ Attend the Programmable Money workshops in San Francisco, CA:
     * Programmable Money: [https://www.meetup.com/Programmable-Money/](https://www.meetup.com/Programmable-Money/)
-
-
-
-    
 
 
 © Copyright 2019 Fodé Diop - MIT License
