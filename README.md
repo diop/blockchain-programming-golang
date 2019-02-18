@@ -19,6 +19,8 @@ This blockchain programming course assumes that you're already familiar with [Bi
     * Ideally, you also have been exposed to: [Effective Go](https://golang.org/doc/effective_go.html)
 
 + Free Resources:
+    * Bitcoin Dev Network: [https://bitcoindev.network/](https://bitcoindev.network/)
+    * Justin Moon on Youtube: [https://www.youtube.com/channel/UCLp4OswuHySZZ3zrVBIoDjg/videos](https://www.youtube.com/channel/UCLp4OswuHySZZ3zrVBIoDjg/videos)
     * Building a Blockchain in Golang: [Youtube Series](https://youtu.be/mYlHT9bB6OE)
     * Golang & Ethereum: [What the func Youtube](https://youtu.be/-7uChuO_VzM)
     * Bitcoin Development with Go: [https://gobitcoinbook.org/](https://gobitcoinbook.org/)
@@ -30,6 +32,7 @@ This blockchain programming course assumes that you're already familiar with [Bi
     * Create and Sign Bitcoin Transactions with Golang: [https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/](https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/)
     
 + Paid Resources:
+    * Programming Blockchain: [https://programmingblockchain.com/](https://programmingblockchain.com/)
     * Greater Commons: [Greater Commons](https://greatercommons.com/learn/golang)
     * Applied Go: [https://appliedgo.com/](https://appliedgo.com/)
     * Calhoun IO: [https://www.calhoun.io/courses](https://www.calhoun.io/courses)
