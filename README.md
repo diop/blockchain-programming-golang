@@ -1,5 +1,5 @@
 # Blockchain Programming with Go
- A selfpaced study guide for learning how to program blockchains in Go.
+ A self-paced study guide for learning how to program blockchains in Go.
 
 ## Prerequisites
 This blockchain programming course assumes that you're already familiar with [Bitcoin](https://bitcoin.org) and know some [Go](https://golang.org/).
