@@ -10,6 +10,10 @@ This blockchain programming course assumes that you're already familiar with [Bi
 + Bitcoin for developers - The Defacto Source of Truth
     * Documentation [https://bitcoin.org/en/developer-guide#block-chain](https://bitcoin.org/en/developer-guide#block-chain)
 
++ Bitcoin Lightning Engineering:
+    * Main Site: [http://lightning.network/how-it-works/](http://lightning.network/how-it-works/)
+    * Developers Documentation: [https://lightning.engineering/](https://lightning.engineering/)
+
 + Exposure to the Go(Golang) programming language: 
     * To the minimum, you have attempted and finished: [A Tour of Go](https://tour.golang.org/welcome/1)
     * Ideally, you also have been exposed to: [Effective Go](https://golang.org/doc/effective_go.html)
@@ -41,6 +45,7 @@ This blockchain programming course assumes that you're already familiar with [Bi
     * Bitcoin Dev Network: [https://bitcoindev.network/](https://bitcoindev.network/)
     * Justin Moon on Youtube: [https://www.youtube.com/channel/UCLp4OswuHySZZ3zrVBIoDjg/videos](https://www.youtube.com/channel/UCLp4OswuHySZZ3zrVBIoDjg/videos)
     * James Lopp's Bitcoin Resources list: [https://lopp.net/bitcoin.html](9https://lopp.net/bitcoin.html)
+    * René Pickhardt: [https://www.youtube.com/user/renepickhardt](https://www.youtube.com/user/renepickhardts)
 
 + Attend the Programmable Money workshops in San Francisco, CA:
     * Programmable Money: [https://www.meetup.com/Programmable-Money/](https://www.meetup.com/Programmable-Money/)
