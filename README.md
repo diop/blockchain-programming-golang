@@ -28,6 +28,8 @@ This blockchain programming course assumes that you're already familiar with [Bi
     * Gophercises: [https://gophercises.com/](https://gophercises.com/)
     * Building a Blockchain in Go blog series: [https://jeiwan.cc/posts/building-blockchain-in-go-part-1/](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
     * Create and Sign Bitcoin Transactions with Golang: [https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/](https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/)
+    * Create A Bitcoin Hardware Wallet With Golang And A Raspberry Pi Zero: [https://www.thepolyglotdeveloper.com/2018/03/create-bitcoin-hardware-wallet-golang-raspberry-pi-zero/](https://www.thepolyglotdeveloper.com/2018/03/create-bitcoin-hardware-wallet-golang-raspberry-pi-zero/)
+    * Building a Crypto Exchange (mostly in Go): [https://around25.com/blog/building-a-trading-engine-for-a-crypto-exchange/](https://around25.com/blog/building-a-trading-engine-for-a-crypto-exchange/)
     
 + Paid Resources:
     * Greater Commons: [Greater Commons](https://greatercommons.com/learn/golang)
