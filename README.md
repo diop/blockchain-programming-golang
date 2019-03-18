@@ -20,9 +20,7 @@ This blockchain programming course assumes that you're already familiar with [Bi
 
 + Free Resources:
     * Building a Blockchain in Golang: [Youtube Series](https://youtu.be/mYlHT9bB6OE)
-    * Golang & Ethereum: [What the func Youtube](https://youtu.be/-7uChuO_VzM)
     * Bitcoin Development with Go: [https://gobitcoinbook.org/](https://gobitcoinbook.org/)
-    * Ethereum Development with Go: [https://goethereumbook.org/en/](https://goethereumbook.org/en/)
     * Cryptocurrency Cabal: [http://bitcoin-class.org/](http://bitcoin-class.org/)
     * Any videos by Todd Mcleod: [https://www.youtube.com/user/toddmcleod](https://www.youtube.com/user/toddmcleod)
     * Gophercises: [https://gophercises.com/](https://gophercises.com/)
