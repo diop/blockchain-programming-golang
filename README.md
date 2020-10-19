@@ -19,6 +19,7 @@ This blockchain programming course assumes that you're already familiar with [Bi
     * Ideally, you also have been exposed to: [Effective Go](https://golang.org/doc/effective_go.html)
 
 + Free Resources:
+    * Code your own blockchain in less than 200 lines of Go! [Coral Health](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
     * Building a Blockchain in Golang: [Youtube Series](https://youtu.be/mYlHT9bB6OE)
     * Bitcoin Development with Go: [https://gobitcoinbook.org/](https://gobitcoinbook.org/)
     * Cryptocurrency Cabal: [http://bitcoin-class.org/](http://bitcoin-class.org/)
